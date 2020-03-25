@@ -14,6 +14,12 @@ obj.odd(38);
 	obj.country("SpaNish");
 	
 	
+	  String word ="abrakadabra";
+
+      String replace=word.replaceAll("[^aAeEiIoOuU]", " ");
+
+      System.out.println(replace);
+	
 	}
 
 }
