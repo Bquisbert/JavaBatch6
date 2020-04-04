@@ -16,7 +16,8 @@ public class Recap {
 	String vowels=getVowels("hello");
 	System.out.println(vowels);
 		
-		
+		Task1 obj=new Task1("Brian", 99, 89, 97);
+		obj.avg();
 		
 		
 		

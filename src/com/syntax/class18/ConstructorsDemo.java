@@ -36,7 +36,7 @@ public class ConstructorsDemo {
 		
 		ConstructorsDemo obj1=new ConstructorsDemo("yes",13);		
 	
-	obj1.ConstructorsDemo();
+	          obj1.ConstructorsDemo();
 	
 	}
 	
