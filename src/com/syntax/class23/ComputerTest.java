@@ -15,5 +15,10 @@ public class ComputerTest {
 	   c.keyboard();
 	   System.out.println("==========");
    }
+   
+   for(int i=0;i<computer.length;i++) {
+	   
+   }
+   
 }
 }
