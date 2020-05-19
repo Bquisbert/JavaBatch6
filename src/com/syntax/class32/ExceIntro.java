@@ -15,7 +15,7 @@ public class ExceIntro {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 
-		String filePath="C:\\Users\\brian\\OneDrive\\Documents\\Test.xlsx";
+		String filePath=System.getProperty("user.dir")+"\\testdata\\Book1.xlsx";
 		
 		FileInputStream fis=new FileInputStream(filePath);
 		//accessing workbook
